@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\6th.obj" 
-TO ".\Objects\6thAttempt" 
-PRINT(".\Listings\6thAttempt.m51") CODE( 0X0000-0X0FFF )
